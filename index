@@ -1,102 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Mazda Safety Timeline</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f5f5f5;
-      color: #222;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #b30000;
-      font-size: 32px;
-    }
-    h2 {
-      margin-top: 40px;
-      font-size: 24px;
-      color: #333;
-      border-bottom: 2px solid #b30000;
-      padding-bottom: 5px;
-    }
-    h3 {
-      margin-top: 30px;
-      font-size: 20px;
-      color: #444;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    strong {
-      color: #000;
-    }
-  </style>
-</head>
-<body>
-  <h1>Mazda Safety Timeline</h1>
+<section id="timeline">
+  <h2>The 7-Month Timeline</h2>
 
-  <h2>Section 1: The 7-Month Timeline – Updated</h2>
+  <p><strong>December 2024</strong> – Reported persistent acceleration lag that created dangerous merging highway conditions, especially in colder weather. Was told we had to wait until January for an appointment.</p>
 
-  <h3>December 2024</h3>
-  <p>Reported persistent acceleration lag that created dangerous merging highway conditions, especially in colder weather. Was told we had to wait until January for an appointment.</p>
+  <p><strong>January 20, 2025</strong> – Presented Mazda's official Technical Service Bulletin (TSB No. 09-037/24) to Josh, the service advisor at Century Mazda, for water intrusion into the front headlight assembly—a known safety defect. Century Mazda dismissed it, saying it “wasn’t raining enough.” <strong>Only after I offered to pay out of pocket did Josh agree to order the part.</strong> Also left the car for acceleration lag diagnosis. Despite asking for a road test, Mazda skipped it and assumed it was a software issue.</p>
 
-  <h3>January 20, 2025</h3>
-  <p>Presented Mazda's official Technical Service Bulletin (TSB No. 09-037/24) to Josh, the service advisor at Century Mazda, for water intrusion into the front headlight assembly—a known safety defect that compromises nighttime, fog, and morning visibility. Despite being shown the TSB, Century Mazda initially dismissed the issue, saying it “wasn’t raining enough” to replicate it. <strong>Only after I offered to pay for the part out of pocket did Josh agree to order it.</strong> At the same time, I left the vehicle for diagnosis of the acceleration lag issue. Despite specifically asking for a road test, Mazda assumed it was a software issue and skipped proper testing.</p>
+  <p><strong>January 22, 2025</strong> – Notified Mazda via service text line that acceleration issue persisted. No reply until February 10.</p>
 
-  <h3>January 22, 2025</h3>
-  <p>Notified Mazda via their preferred service text line that the acceleration issue was still present. No reply was received until February 10th.</p>
+  <p><strong>January 24 – February 10, 2025</strong> – Noticed vehicle damage after pickup. Mazda first blamed a customer, then admitted their own lot attendant hit our car into a delivery vehicle. They told the other customer, but not us. After escalating to Century Auto Group (CAG) Owner Michael MacGillivray (michael@centuryauto.ca), I was told to speak with Jayson Pearce (Director). Mazda agreed to fix the damage. I reminded them the acceleration issue was still unresolved.</p>
 
-  <h3>January 24 – February 10, 2025</h3>
-  <p>Called and asked to speak with the General Manager, Brenda West, after noticing body damage that was not present when we dropped the car off but was clearly visible on our home security footage when returned. Mazda initially claimed another customer caused the damage, but after we demanded video evidence and threatened legal action, they admitted their lot attendant caused the damage by hitting our vehicle into a stationary delivery vehicle. Mazda informed the other customer—but not us.</p>
+  <p><strong>February 18, 2025</strong> – Car returned with claim that the issue was fixed by a Mazda Canada EV tech. But the problem persisted.</p>
 
-  <p>Escalated the matter to Century Auto Group (CAG), which owns Century Mazda. The dealership attempted to stonewall any escalation contact, directing us in circles between Century Mazda and a Truro dealership.</p>
+  <p><strong>March 4, 2025</strong> – Reported continued issues. Service Manager Paul Cotter said Mazda Canada field managers were now involved and asked for car to be brought back in.</p>
 
-  <p>We eventually acquired the name and email of the CAG Owner, Michael MacGillivray (michael@centuryauto.ca), and emailed him because Jayson Pearce was not returning messages. No one at the dealership or Truro Bible Hill location would provide Jayson’s direct contact information, despite confirming that he was the appropriate person to speak to. After contacting Michael, Jayson informed us he receives all of Michael’s emails and that it was fine to deal with him directly. We finally received a call back. At this time, we also reminded Mazda that the acceleration issue remained unresolved and would need to be addressed again.</p>
+  <p><strong>March 10–13, 2025</strong> – Requested pickup due to unsafe vehicle. Was told my wife must drop it off. Delays followed due to service manager absence.</p>
 
-  <h3>February 18, 2025</h3>
-  <p>Vehicle returned after body repair, with claim that the acceleration issue had been addressed. We were told a Mazda Canada EV technician performed the work. However, the issue persisted.</p>
+  <p><strong>March 18, 2025</strong> – Dropped off again. Paul (Atlantic Field Technical Rep for Mazda Canada, not Cotter) test drove it, applied EV-to-gas transition updates including to powertrain, transmission, and connectivity modules. Claimed it performed well.</p>
 
-  <h3>March 4, 2025</h3>
-  <p>Reported that the issue was still occurring. Service manager Paul Cotter responded and said they were now working with Mazda Canada’s “Field District Technical and Service Managers.” We were asked to drive the vehicle back in for further inspection.</p>
+  <p><strong>March 19, 2025</strong> – Asked if TSB part had been installed. Told it was only ordered March 6—even though I flagged it on Jan 20 and offered to pay. <strong>In July, Jenny from Mazda Canada said it had been installed on this date. To this day, we have no confirmation.</strong></p>
 
-  <h3>March 10–13, 2025</h3>
-  <p>Requested alternate transportation so my wife would not have to put our children in the unsafe vehicle. Was advised she would still need to drop it off. The service manager was reportedly out sick, causing delays in response.</p>
+  <p><strong>March 20, 2025</strong> – Asked if issue was reproduced pre-update. Mazda did not reply.</p>
 
-  <h3>March 18, 2025</h3>
-  <p>Vehicle dropped off again. Paul, the Atlantic Field Technical Representative for Mazda Canada (not Paul Cotter), road tested the vehicle, then installed updates to the EV to gas mode transition system. Updates reportedly included the powertrain, transmission, vehicle control modules, tuner amps, and connectivity modules. Paul claimed to be satisfied with post-update performance.</p>
+  <p><strong>March 22, 2025</strong> – Issue returned. Mazda stopped replying via chat.</p>
 
-  <h3>March 19, 2025</h3>
-  <p>Before picking up the vehicle, asked whether the TSB part for the flickering headlight had been installed. Was told the part had only been ordered on March 6, despite originally flagging it on January 20 and offering to pay for it. No explanation was provided for the delay. <strong>Later in July, Jenny from Mazda Canada claimed the part had been installed on this date, but we have no confirmation or clarity. To this day, we do not know whether the TSB fix was applied. Mazda claims to prioritize safety—yet we have received no clear or trustworthy answer.</strong></p>
+  <p><strong>April 2, 2025</strong> – Sent firm follow-up via chat. Was told only one advisor had been working. Promised callback never came. All communications went silent.</p>
 
-  <h3>March 20, 2025</h3>
-  <p>Picked up the car and asked if Mazda’s field agents had been able to reproduce the issue prior to applying the update. Mazda chose not to reply.</p>
+  <p><strong>April 2025</strong> – Century Mazda and CAG ceased all communication. Mazda Canada also stopped replying. <strong>Jenny from Mazda Canada later confirmed dealers “can choose who they want to deal with” and Mazda Canada cannot make them help a customer.</strong></p>
 
-  <h3>March 22, 2025</h3>
-  <p>Issue presented again. Mazda stopped replying to service chat.</p>
+  <p><strong>May–June 2025</strong> – All communications ignored. Car parked indefinitely.</p>
 
-  <h3>April 2, 2025</h3>
-  <p>Sent a firm message through the chat line after multiple weeks of no reply. Was told only one service advisor had been working. He promised to follow up with the service manager and schedule another diagnostic. That call never came. No emails or calls were returned. Mazda had gone silent again.</p>
+  <p><strong>July 16, 2025</strong> – Called Mazda Canada. Spoke with Jenny for an hour. Two points:
+    <ul>
+      <li><strong>Dealer conduct:</strong> I said Mazda must enforce basic standards. Dealers should not be allowed to ghost safety-related issues. Jenny said Mazda Canada can’t force them to respond. I pushed back citing brand compliance obligations.</li>
+      <li><strong>Buyback request:</strong> I made it clear we will not restart with the dealer. We requested a Mazda Canada buyback. Jenny said that wasn’t an option and “this is the end of the line.” I pushed for escalation.</li>
+    </ul>
+  </p>
 
-  <h3>April 2025</h3>
-  <p>Century Mazda and CAG had now fully ceased communication. No service contact. No follow-up. No response from Mazda Canada either. <strong>At this point, the most senior representatives at the dealership and parent group were aware of the ongoing safety issue, yet opted for silence.</strong></p>
-
-  <h3>May–June 2025</h3>
-  <p>Any and all outbound communication from me was ignored by CAG and Century Mazda. Car remained parked.</p>
-
-  <h3>July 16, 2025</h3>
-  <p>I contacted Mazda Canada directly and spent an hour on the phone detailing the entire situation. I was connected to Jenny, who became my file owner. I informed her that after 7 months of trying, we were not willing to start over at the dealership. I told her that it was unacceptable for a dealer to cut off communication with an owner dealing with a known safety issue, and that Mazda Canada must enforce standards within its franchise network.</p>
-
-  <p>Separately, I requested a formal buyback. I told her this was no longer a Century Mazda issue. It was now Mazda Canada’s responsibility. She replied that the dealer is “independent” and Mazda Canada “can’t force them.” I told her this contradicted Mazda's own compliance policy and franchise oversight responsibilities. I pushed for escalation.</p>
-
-  <h3>July 30, 2025</h3>
-  <p>I called Mazda Canada and was connected to Claude, who informed me that my case had been reassigned. Claude said my new file owner was Jason. I requested a callback. Later that day, instead of receiving a call, I received an email from Jason.</p>
-
-  <h3>August 2025</h3>
-  <p>Jason outlined three options: (1) keep the car as-is, (2) return to the dealer and start over, or (3) trade it in at another Mazda location where it could be resold to an unsuspecting buyer—likely another family. <strong>This is Mazda's interpretation of “safety.”</strong> I requested escalation to Amy Fleming (incoming CEO), David Klan (outgoing CEO), and Makoto Yoshihara (corporate compliance).</p>
-
-</body>
-</html>
+  <p><strong>July 30, 2025</strong> – Spoke with Claude at Mazda Canada. He said my file was now with Jason (not Jayson Pearce). I asked for a callback. Jason emailed instead. He gave 3 options: (1) keep the car, (2) return to Century Mazda and start over, or (3) trade it in to Mazda where it would be resold to an unsuspecting buyer—likely a family. <strong>This is Mazda Canada’s version of safety-first.</strong> I again requested escalation to Amy Fleming (incoming CEO), David Klan (outgoing CEO), and Makoto Yoshihara (Head of Compliance).</p>
+</section>
